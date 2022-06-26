@@ -9,7 +9,12 @@ body {
   font-family: fantasy;
   color: #fffbff;
 }
-
+a {
+  color: #fffbff
+}
+a:hover {
+  color: salmon;
+}
 nav {
     background-color: #362417;
     padding: 10px;
