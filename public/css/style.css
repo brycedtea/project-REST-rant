@@ -1,10 +1,17 @@
 h1 {
     text-align: center;
-    color: cornflowerblue;
+    color: #fffbff;
   }
+.title{
+  font-size: 125px;
+}
+body {
+  font-family: fantasy;
+  color: #fffbff;
+}
 
 nav {
-    background-color: cornflowerblue;
+    background-color: #362417;
     padding: 10px;
 }
 
@@ -19,22 +26,27 @@ nav li {
 }
 
 nav a {
-    color: white;
+    color: #fffbff;
     font-size: 1.5em;
 }
 
 nav a:hover {
-    color: pink;
+    color: #f1dabf;
     text-decoration: none;
 }
 
 body {
-  background-color: lightblue;
+  background-color: #f1dabf;
   text-align: center;
 }
 
 main {
-  margin-right: 20px;
-  margin-left: 20px;
-  background-color: white;
+  background-color: #92817a;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+img {
+  width: 500px;
+  max-height: 300px;
 }
