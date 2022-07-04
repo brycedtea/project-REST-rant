@@ -1,8 +1,12 @@
 {
-  "name": "deployment",
+  "name": "rest-rant",
   "version": "1.0.0",
-  "engines": {
-    "node": " v16.15.1"
+  "main": "index.js",
+  "engines":{
+    "node": "v16.15.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
@@ -24,10 +28,5 @@
     "url": "https://github.com/brycedtea/project-REST-rant/issues"
   },
   "homepage": "https://github.com/brycedtea/project-REST-rant#readme",
-  "description": "REST-Rant is an app where users can review restaurants.",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "description": ""
 }
