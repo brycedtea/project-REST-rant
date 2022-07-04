@@ -1,8 +1,7 @@
 {
   "name": "rest-rant",
   "version": "1.0.0",
-  "main": "index.js",
-  "engines":{
+  "engines": {
     "node": "v16.15.1"
   },
   "scripts": {
@@ -28,5 +27,7 @@
     "url": "https://github.com/brycedtea/project-REST-rant/issues"
   },
   "homepage": "https://github.com/brycedtea/project-REST-rant#readme",
-  "description": ""
+  "description": "REST-Rant is an app where users can review restaurants.",
+  "main": "index.js",
+  "devDependencies": {}
 }
