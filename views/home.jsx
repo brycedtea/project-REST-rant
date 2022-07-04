@@ -7,7 +7,7 @@ function home () {
           <main>
               <h1 class="title">REST-Rant</h1>
               <div>
-                <img src="https://cdn.wallpaper.com/main/2015/10/malamen-1.jpg" alt="Restaurant Image"
+                <img class="landing" src="https://cdn.wallpaper.com/main/2015/10/malamen-1.jpg" alt="Restaurant Image"
                 width="500" 
                 height="300" />
               </div>

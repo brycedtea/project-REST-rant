@@ -5,6 +5,10 @@ h1 {
 .title{
   font-size: 125px;
 }
+.landing {
+  width: 650px;
+  height: 400px;
+}
 body {
   font-family: fantasy;
   color: #fffbff;
@@ -47,11 +51,12 @@ body {
 
 main {
   background-color: #92817a;
-  padding-top: 30px;
+  padding-top: 40px;
   padding-bottom: 30px;
 }
 
 img {
   width: 500px;
   max-height: 300px;
+  padding: 5px;
 }
