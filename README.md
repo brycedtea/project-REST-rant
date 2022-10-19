@@ -1,7 +1,6 @@
-# Title: 
-Project REST-Rant
+# REST-Rant
 
-# Description:
+## Description:
 REST-Rant is an MERN stack web application which utilizes full CRUD operations. Users can leave reviews for existing restaurants as well as submit reviews for new restaurants. 
 
 ## API Documentation
@@ -26,17 +25,36 @@ REST-Rant is an MERN stack web application which utilizes full CRUD operations. 
 
 
 
+## Changelog
+- node version
+- edit package.json
+- changes
+- deployment
+- added styling
+- Completed beta version of app
+- implemented comment form
+- more schema
+- Added schema
+- Fixed show page and links
+- Added edit form and functionality
+- Delete funtionality implemented
+- Show route connected
+- Navbar with style
+- New places can be added
+- Form data is getting through
+- Jazzed up form page
+- Adding and renderinng a new view
+- Adding bootstrap grid to index page
+- Adding styles to REST-Rant
+- Adding places view with mock data
+- Adding 404 page view
+- Adding home page view
+- Adding default view for layout
+- Adding routes table to README
+- Adding remaining stub routes
+- node modules
+- Adding places controller
+- Adding 404 page route
 
 
-Changelog
-As the name implies, this is a file that contains information about changes and version releases to your project. There are a number of ways to create a changelog. Depending on the sort of project, one method may be more appropriate than another.
-
-
-
-
-Acceptance Criteria
-When viewing repositiory, a README.md should exist with title, description, demo, technologies, technical information and issues.
-When viewing repository, either the README.md file or a docs folder should contain API documentation describing all application endpoints.
-When viewing repository, a changelog generated from commit history should exist.
-Before submitting, make sure you do a self review of your code, check for formatting, spelling, include comments in your code, and ensure you have a healthy commit history.
 
